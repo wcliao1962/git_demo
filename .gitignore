@@ -1,0 +1,7 @@
+node_modules
+bower_components
+
+secrete
+
+/.idea
+/.vscode
